@@ -1,2 +1,4 @@
 Git GitHub
 Angular 9
+React JS
+Sass
